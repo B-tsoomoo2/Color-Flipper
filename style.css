@@ -1,0 +1,24 @@
+.center {
+  margin: top 200px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.container {
+  text-align: center;
+  display: flex;
+  background-color: white;
+  border-radius: 8px;
+  margin-top: 400px;
+}
+.Background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: max-content;
+}
+
+.buttons {
+  background: transparent;  
+}
